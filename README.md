@@ -1,3 +1,27 @@
+folder structure:
+Homeplate
+ |
+ |- Frontend
+ |     |-Node modules
+       |-Public
+       |-Src
+       |-postcss.config
+       |-craco.congig
+       |-tailwind.config
+ |
+ |-backend
+ |     |-.env
+ |     |-server.js
+ |     |-node modules
+ |
+
+ 
+
+
+      
+
+       
+Install node modules for both frontend and backend 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
